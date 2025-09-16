@@ -1,0 +1,1 @@
+# The program will ask for an input, and then use SHA256 and AES to obscure it, before comparing the two. If it sees its the same, it will print them. If they arent, it will let you know and only print the SHA.
